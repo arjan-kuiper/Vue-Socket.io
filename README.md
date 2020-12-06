@@ -15,7 +15,6 @@
 </p>
 <p align="center">
 Vue-Socket.io is a socket.io integration for Vuejs, easy to use, supporting Vuex and component level socket consumer managements
-This fork supports **Vue 3**
 </p>
 
 
